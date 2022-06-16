@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="FilterDem">
+        <property name="context-root" value="FilterDem"/>
+        <property name="java-output-path" value="/FilterDem/build/classes"/>
+    </wb-module>
+</project-modules>
