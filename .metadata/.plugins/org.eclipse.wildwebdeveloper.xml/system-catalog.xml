@@ -223,7 +223,7 @@
 <uri name="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/200702" uri="file:///D:/eclipse/eclipse/configuration/org.eclipse.osgi/856/0/.cp/xsd/ws-securitypolicy-1.2.xsd"/>
 <uri name="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/200802" uri="file:///D:/eclipse/eclipse/configuration/org.eclipse.osgi/856/0/.cp/xsd/ws-securitypolicy.xsd"/>
 <uri name="http://www.w3.org/TR/xmldsig-core/xmldsig-core-schema.xsd" uri="file:///D:/eclipse/eclipse/configuration/org.eclipse.osgi/856/0/.cp/xsd/xmldsig-core-schema.xsd"/>
-<uri name="http://www.w3.org/2001/XMLSchema" uri="file:///D:/eclipse/eclipse/configuration/org.eclipse.osgi/908/0/.cp/cache/www.w3.org/2001/XMLSchema.xsd"/>
-<system systemId="http://www.w3.org/2001/xml.xsd" uri="file:///D:/eclipse/eclipse/configuration/org.eclipse.osgi/908/0/.cp/cache/www.w3.org/2001/xml.xsd"/>
+<uri name="http://www.w3.org/2001/XMLSchema" uri="file:///D:/eclipse/eclipse/configuration/org.eclipse.osgi/957/0/.cp/cache/www.w3.org/2001/XMLSchema.xsd"/>
+<system systemId="http://www.w3.org/2001/xml.xsd" uri="file:///D:/eclipse/eclipse/configuration/org.eclipse.osgi/957/0/.cp/cache/www.w3.org/2001/xml.xsd"/>
 <uri name="http://www.w3.org/2001/XInclude" uri="file:///D:/eclipse/eclipse/configuration/org.eclipse.osgi/890/0/.cp/xslt-schemas/xinclude.xsd"/>
 </catalog>
