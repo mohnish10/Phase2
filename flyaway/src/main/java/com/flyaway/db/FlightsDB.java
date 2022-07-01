@@ -87,7 +87,7 @@ public class FlightsDB {
 			statement.setInt(1, flight.getSourceId());
 			statement.setInt(2, flight.getDestinationId());
 			statement.setInt(3, flight.getAirlineId());
-			statement.setDouble(4, flight.getPrice());
+			statement.setDouble(4, 	flight.getPrice());
 			statement.execute();
 		} catch (SQLException e2) {
 			// TODO Auto-generated catch block
@@ -109,7 +109,7 @@ public class FlightsDB {
 			// kindly delete from loginuser table as well
 			statement.execute();
 			
-		} catch (SQLException e) {
+		} catch (SQLException e) {	
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 			return false;
@@ -139,14 +139,14 @@ public class FlightsDB {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		finally {
+		finally {	
 			try {
 				con.close();
 			} catch (SQLException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
-		}
+		}	
 		return null;
 		
 	}

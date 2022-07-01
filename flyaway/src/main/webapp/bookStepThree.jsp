@@ -56,7 +56,7 @@
 		<form action='bookLastStep' method=POST>
 					<div class="form-group">
 						<label for="username">Name:</label> <input type="text"
-							class="form-control" id="name" placeholder="Max Mustermann"
+							class="form-control" id="name" placeholder="Enter your name please"
 							name="name">
 					</div>
 					<br/>

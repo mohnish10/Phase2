@@ -1,0 +1,9 @@
+AdminDB
+
+1) We write a function for validating user public boolean validateUser(Admin admin)
+
+2) Make the connection.
+
+3) Execute the select * from admin where email=? query.
+
+4) 
